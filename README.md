@@ -1,38 +1,36 @@
-### Hi there, We are [FreeBirds Crew][https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1] 👋
-
-[<img align="right" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds_Crew.jpg" />][https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1]
+### Hi there, We are [FreeBirds Crew](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1) 👋
 
 ## I'm a Learner, Software Engineer and Teacher!
 - 🔭 I’m currently working at TCS (Tata Consultancy Services)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and Grow my [YouTube Channel[https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1]
+- 🥅 2020 Goals: Contribute more to Open Source projects and Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 - ⚡ Fun fact: I love to draw and play guitar and write Songs/Poetry.
 
 ### Connect with me:
 
-[<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1]
-[<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/CrewFreebirds]
-[<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/simranjeet-singh-ab8071153/]
-[<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/freebirdscrew/]
+[<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
+[<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/CrewFreebirds)
+[<img align="left" alt="FreeBirds Crew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/simranjeet-singh-ab8071153/)
+[<img align="left" alt="FreeBirds Crew | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/freebirdscrew/)
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="PyCharm IDE" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Logo.svg&psig=AOvVaw3kNr9hkRElXCZjeCqK4-Xw&ust=1596398855179000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCgk6jn-uoCFQAAAAAdAAAAABAD"/>][https://bit.ly/2Pi452M]
-[<img align="left" alt="Sublime-Text" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F373309%2Fsublime-text&psig=AOvVaw0V-ePEPwpYUiuIi_o0g32W&ust=1596399347241000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCMvJPp-uoCFQAAAAAdAAAAABAD"/>][https://bit.ly/2Pi452M]
-[<img align="left" alt="Jupyter-Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw07hs62xVzSfj9HJv5UCfc9&ust=1596399407578000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCfp7Lp-uoCFQAAAAAdAAAAABAN"/>][https://bit.ly/2Pi452M]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][https://bit.ly/2Pi452M]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://bit.ly/2Pi452M]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][https://bit.ly/2Pi452M]
+[<img align="left" alt="PyCharm IDE" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Logo.svg&psig=AOvVaw3kNr9hkRElXCZjeCqK4-Xw&ust=1596398855179000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCgk6jn-uoCFQAAAAAdAAAAABAD"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Sublime-Text" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F373309%2Fsublime-text&psig=AOvVaw0V-ePEPwpYUiuIi_o0g32W&ust=1596399347241000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCMvJPp-uoCFQAAAAAdAAAAABAD"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Jupyter-Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw07hs62xVzSfj9HJv5UCfc9&ust=1596399407578000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCfp7Lp-uoCFQAAAAAdAAAAABAN"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://bit.ly/2Pi452M)
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://bit.ly/2Pi452M)
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://bit.ly/2Pi452M)
 
 <br />
 <br />
