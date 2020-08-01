@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, We are FreeBirds Crew
+
+![GitHub Logo](https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds_Crew.jpg)
 
 <!--
 **FreeBirdsCrew/freebirdscrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
