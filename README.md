@@ -17,9 +17,6 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="PyCharm IDE" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyCharm_Logo.svg&psig=AOvVaw3kNr9hkRElXCZjeCqK4-Xw&ust=1596398855179000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCgk6jn-uoCFQAAAAAdAAAAABAD"/>](https://bit.ly/2Pi452M)
-[<img align="left" alt="Sublime-Text" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F373309%2Fsublime-text&psig=AOvVaw0V-ePEPwpYUiuIi_o0g32W&ust=1596399347241000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCMvJPp-uoCFQAAAAAdAAAAABAD"/>](https://bit.ly/2Pi452M)
-[<img align="left" alt="Jupyter-Notebook" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&psig=AOvVaw07hs62xVzSfj9HJv5UCfc9&ust=1596399407578000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCfp7Lp-uoCFQAAAAAdAAAAABAN"/>](https://bit.ly/2Pi452M)
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>](https://bit.ly/2Pi452M)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://bit.ly/2Pi452M)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://bit.ly/2Pi452M)
