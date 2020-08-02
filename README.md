@@ -2,14 +2,14 @@
 
 [<img align="center" alt="FreeBirds Crew | YouTube" src="https://github.com/FreeBirdsCrew/freebirdscrew/blob/master/FreeBirds%20Crew.png" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 
-## I'm a Learner, Software Engineer and Teacher!
-- 🔭 I’m currently working at TCS (Tata Consultancy Services)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+## We a Learner, Software Engineer and Teacher!
+- 🔭 We are currently working as Software Engineer and Data Analyst.
+- 🌱 We are currently learning everything 🤣
+- 👯 We are looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and Grow my [YouTube Channel](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
-- ⚡ Fun fact: I love to draw and play guitar and write Songs/Poetry.
+- ⚡ Fun fact: Admin love to draw and play guitar and write Songs/Poetry.
 
-### Connect with me:
+### Connect with us:
 
 [<img align="left" alt="FreeBirds Crew | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC4RZP6hNT5gMlWCm0NDzUWg?view_as=subscriber?sub_confirmation=1)
 [<img align="left" alt="FreeBirds Crew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/CrewFreebirds)
